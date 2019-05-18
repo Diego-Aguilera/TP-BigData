@@ -15,7 +15,7 @@ Nota: Se debio realizar el promedio en otro proyecto de Hadoop ya que por la arq
 
 ### Instrucciones
 
-* Ejecutar el scrapper.py
+* Ejecutar el scrapper.py dentro de la carpeta Twitter
 
 ```
 pipenv run python scrapper.py
