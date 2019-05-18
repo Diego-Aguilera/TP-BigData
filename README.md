@@ -39,7 +39,7 @@ https://cloud.google.com/natural-language/docs/quickstart-client-libraries#clien
 
 ### Instrucciones para ejecutar el proyecto de Sentiment Analysis
 
-* Copiar el output generado en Data Fetching dentro de la carpeta input del proyecto TwitterSentiment.
+* Copiar el output generado con el Data Fetching a la carpeta TwitterSentiment/input.
 * Configurar IntelliJ para ejecutar con Hadoop: https://mrchief2015.wordpress.com/2015/02/09/compiling-and-debugging-hadoop-applications-with-intellij-idea-for-windows/
 * Ejecutar
 
@@ -47,7 +47,7 @@ Nota: Debido a la cantidad de lineas y las llamadas constantes a la API de Googl
 
 ### Instrucciones para ejecutar el proyecto de Promedio de Sentimientos
 
-* Copiar el output del paso anterior y pegarlo como tesla.csv en la carpeta "input" del proyecto TwitterAverage
+* Copiar el output generado del paso anterior y pegarlo como tesla.csv a la carpeta TwitterAverage/input
 * Configurar este proyecto como en el paso anterior para correr con Hadoop
 * Ejecutar
 
